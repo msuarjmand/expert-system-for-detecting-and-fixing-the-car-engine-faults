@@ -11,6 +11,6 @@ The code repository for "An expert system for detecting and fixing the car engin
         doc={https://civilica.com/doc/923652/}
     }
 
-## Abstract
+### Abstract
 
 Nowadays, fault detection and repair of the car has become one of the daily issues to which many people have faced. Moreover, the importance of familiarity with minor repairs is determined more intensively when you have to wait for the expert for a long time, to come and solve the very small problems. Thus, having enough knowledge in terms of car repair can considerably help us to solve the problem. In this paper, an expert system with a knowledge base is presented for detecting and repairing a car engine that has not started. Furthermore, the issue has been coded with CLIPS software. The rules in this expert system are based on the common problems that most of people face daily and that makes it become more practical.
