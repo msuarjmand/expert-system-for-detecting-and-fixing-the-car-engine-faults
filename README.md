@@ -17,4 +17,5 @@ Nowadays, fault detection and repair of the car has become one of the daily issu
 
 ## Software
 
+To implement the expert system, the CLIPS software, which is a tool for Building Expert Systems and was developed by NASA’s Johnson Space Center from 1985 to 1996, was employed. For more information about the software, you can refer to the following link:
 [CLIPS](https://www.clipsrules.net/)
