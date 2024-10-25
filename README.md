@@ -3,7 +3,7 @@
 The code repository for "An expert system for detecting and fixing the car engine faults" [conference paper](https://civilica.com/doc/669053/) (The Third International Conference on Industrial and System Engineering). If you use any content of this repo for your work, please cite the following bib entry:
   
     @inproceedings{
-        
+        923652,
         author={Arjmand, Masoud, and Ebrahimzadeh, Majid, and Kazemi, Abolfazl},
         booktitle={2017 The Third International Conference on Industrial and System Engineering (ICISE)}, 
         title={An expert system for detecting and fixing the car engine faults}, 
