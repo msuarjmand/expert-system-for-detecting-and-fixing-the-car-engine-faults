@@ -3,7 +3,7 @@
 The code repository for "An expert system for detecting and fixing the car engine faults" [conference paper](https://civilica.com/doc/669053/) (The Third International Conference on Industrial and System Engineering). If you use any content of this repo for your work, please cite the following bib entry:
   
     @inproceedings{
-        10454082,
+        
         author={Arjmand, Masoud, and Ebrahimzadeh, Majid, and Kazemi, Abolfazl},
         booktitle={2017 The Third International Conference on Industrial and System Engineering (ICISE)}, 
         title={An expert system for detecting and fixing the car engine faults}, 
@@ -17,6 +17,6 @@ Nowadays, fault detection and repair of the car has become one of the daily issu
 
 ## Software
 
-To implement the expert system, the CLIPS software, which is a tool for Building Expert Systems and was developed by NASA’s Johnson Space Center from 1985 to 1996, was employed. For more information about the software, you can refer to the following link:
+The CLIPS software, which is a tool for building expert systems and was developed by NASA’s Johnson Space Center from 1985 to 1996, was employed to implement the expert system. For more information about the software, you can refer to the following link:
 
 [CLIPS](https://www.clipsrules.net/)
